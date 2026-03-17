@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3//nouvelle-grammaire-du-francais/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3//nouvelle-grammaire-du-francais/"}
 ---
 
 
@@ -148,7 +148,7 @@
 
 ---
 
-## 第五部分：複合句 ([[La phrase complexe\|La Phrase Complexe]])
+## 第五部分：複合句 ([[3. 教學筆記/法文文法/La phrase complexe\|La phrase complexe]])
 
 - [[3. 教學筆記/法文文法/26. la proposition subordonnée relative (關係子句)\|26. la proposition subordonnée relative (關係子句)]] 
     
